@@ -1,6 +1,3 @@
-
-## Flutter Inkwell
-
 ### InkWell
 ```bash
 InkWell(
